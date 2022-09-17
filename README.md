@@ -1,2 +1,2 @@
 # CombatSystem
-A simple and upgradeable character movement solution for Unity 3D projects
+A simple and upgradeable combat solution for Unity 3D projects
